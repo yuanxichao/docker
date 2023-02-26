@@ -1,1 +1,2 @@
-from  rook/ceph:v1.10.11
+FROM  rook/ceph:v1.10.11
+MAINTAINER YXC
